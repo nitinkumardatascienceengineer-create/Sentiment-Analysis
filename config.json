@@ -1,0 +1,7 @@
+{
+    "max_length": 200,
+    "embedding_dim": 64,
+    "max_vocab": 20000,
+    "padding_id": 0,
+    "unknown_id": 1
+}
