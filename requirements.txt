@@ -1,4 +1,4 @@
 torch
 datasets
 matplotlib
-re (regular expression)
+re
